@@ -1,0 +1,26 @@
+{
+  "name": "recify",
+  "version": "1.0.0",
+  "description": "recify project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhyleM/recify.git"
+  },
+  "author": "Khyle Mott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhyleM/recify/issues"
+  },
+  "homepage": "https://github.com/KhyleM/recify#readme",
+  "devDependencies": {
+    "webpack": "^4.24.0"
+  },
+  "dependencies": {}
+}
